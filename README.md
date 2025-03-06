@@ -4,7 +4,7 @@
 
 🌱 Currently learning **JavaScript**
 
-📫 Reach me at [your-email@example.com](28rohit12kumar@gmail.com)
+📫 Reach me at 28rohit12kumar@gmail.com
 
 ### 🚀 My GitHub Stats
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit272811&show_icons=true&theme=radical)
